@@ -1,3 +1,3 @@
-import { setupValidation } from './domHandler';
+import { setupValidation } from "./domHandler";
 
 setupValidation();
